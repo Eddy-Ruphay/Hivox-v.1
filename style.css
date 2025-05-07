@@ -66,3 +66,7 @@ body {
   border-radius: 10px;
   cursor: pointer;
 }
+.icon-img {
+  width: 24px;
+  height: 24px;
+}
